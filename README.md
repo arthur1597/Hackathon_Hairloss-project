@@ -51,7 +51,7 @@ Unet = 이미지 특징 추출
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/facb3fd9-c0f6-4217-ac76-d46611bcebdf" width="30%" >
-  &nbsp;&nbsp;<span style="font-size: 32px; vertical-align: middle;">➡️</span>&nbsp;&nbsp;
+  &nbsp;&nbsp;<span style="font-size: 100px; vertical-align: middle;">➡️</span>&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/9dedb7ee-3543-4344-8608-a7a398201193" width="30%"  >
 </p>
 
