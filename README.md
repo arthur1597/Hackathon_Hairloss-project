@@ -13,15 +13,12 @@
 ## 사용 모델
 <p align="center">
   <img src="https://github.com/user-attachments/assets/41c49ae0-dfae-4591-9150-53403fe7f11d" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/89e6d5e2-315a-4cca-ba6c-f792472ee0ee" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/8f5df45a-2c08-42cc-8f6e-d2d39f9efeda" width="45%"/>
 </p>
 
 
 
 
-<img width="538" alt="image" src="https://github.com/user-attachments/assets/41c49ae0-dfae-4591-9150-53403fe7f11d" />
-
-<img width="538" alt="image" src="https://github.com/user-attachments/assets/89e6d5e2-315a-4cca-ba6c-f792472ee0ee" />
-
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/8f5df45a-2c08-42cc-8f6e-d2d39f9efeda" />
 
 
