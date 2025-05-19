@@ -20,10 +20,9 @@
 탈모 정도, 피부 타입 진단을 위한 AI 모델을 구현하기 위해다양한 공개 이미지 데이터셋을 수집하고 목표에 맞게 재라벨링 진행
 
 ## 사용한 데이터셋
-| 이름 | 링크 |
-|------|------|
-| Hair Loss Dataset (UZE) | [링크](https://universe.roboflow.com/uze/hair-loss-nq8hh) |
-| HEXA Dataset (Mohit) | [링크](https://universe.roboflow.com/mohit-srivastava/hexa-7bin2) |
-| SkinProblem | [링크]([https://universe.roboflow.com/topofhead/hair-vcdau](https://universe.roboflow.com/dmrai/skinproblem/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)) |
+
+| [Hair Loss Dataset (UZE)](https://universe.roboflow.com/uze/hair-loss-nq8hh) | [HEXA Dataset (Mohit)](https://universe.roboflow.com/mohit-srivastava/hexa-7bin2) | [SkinProblem](https://universe.roboflow.com/dmrai/skinproblem/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true) |
+|:--:|:--:|:--:|
+
 
 
