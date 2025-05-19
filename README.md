@@ -10,7 +10,7 @@
   <img alt="탈모 진단 이미지" src="https://github.com/user-attachments/assets/0b33d7b0-c80b-4d17-a0ab-36df99a505bd" width="45%"/>
 </p>
 
-<p align="right" style="font-size:12px">
+<p align="left" style="font-size:12px">
   * 출처: <a href="http://www.biotimes.co.kr" target="_blank">Bio Times</a>
 </p>
 
