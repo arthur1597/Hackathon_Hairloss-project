@@ -37,12 +37,14 @@ Unet = 이미지 특징 추출
 * 탈모 정도 파악 모델
 <img width="822" alt="image" src="https://github.com/user-attachments/assets/3905ce3b-4fb6-4757-94a4-f101d66a09d7" />
 
-:arrow_forward: 전반적으로 학습이 잘 되는듯 하나 val/box_loss가 초반에 감소하는 듯 하나 변동이 심한 것으로 과적합이 발생하지 않도록 다양성을 학습중인 것으로 보임
+:arrow_forward: 전반적으로 학습이 잘 되는듯 하나 val/box_loss가 초반에 감소하는 듯 하나 변동이 심한 것으로 과적합이 발생하지 않도록 다양성을 학습중인 것으로 보임 
+
 :arrow_forward: mAP 값 증가하는 추세를 보이나 mAP50-95의 결과값이 약 0.4정도로 좋지 않은 모습을 보임
+
 * 피부 진단 모델
 <img width="822" alt="image" src="https://github.com/user-attachments/assets/76e89415-9e23-4eb9-b0e9-6394549f891e" />
-:arrow_forward: 전반적으로 학습은 잘 진행되나 Presion과 Recall 값이 변동이 심하고 mAP50-95값의 상승 폭이 줄어드는 것으로 보아 epoch이 진행될수록 학습의 효율성 떨어짐
 
+:arrow_forward: 전반적으로 학습은 잘 진행되나 Presion과 Recall 값이 변동이 심하고 mAP50-95값의 상승 폭이 줄어드는 것으로 보아 epoch이 진행될수록 학습의 효율성 떨어짐
 
 :heavy_exclamation_mark:탈모 발생지가 확실한 이미지에서는 탐지와 정도를 잘 예측하지만 애매한 탈모는 잘 예측하지 못함
 
