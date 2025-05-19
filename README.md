@@ -24,13 +24,10 @@
 | [Hair Loss Dataset (UZE)](https://universe.roboflow.com/uze/hair-loss-nq8hh) | [HEXA Dataset (Mohit)](https://universe.roboflow.com/mohit-srivastava/hexa-7bin2) | [SkinProblem](https://universe.roboflow.com/dmrai/skinproblem/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true) |
 |:--:|:--:|:--:|
 
-<img width="434" alt="image" src="https://github.com/user-attachments/assets/e07f9025-89f6-4790-a8b8-80acd0e00efd" />
-<img width="441" alt="image" src="https://github.com/user-attachments/assets/0811010a-3275-4196-83fd-539454c9f2c6" />
-<img width="396" alt="image" src="https://github.com/user-attachments/assets/be53803c-790d-4f7c-be04-77022482d5da" />
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e07f9025-89f6-4790-a8b8-80acd0e00efd" width="30%">
-  <img src="https://github.com/user-attachments/assets/0811010a-3275-4196-83fd-539454c9f2c6" width="30%">
-  <img src="https://github.com/user-attachments/assets/be53803c-790d-4f7c-be04-77022482d5da" width="30%">
+  <img src="https://github.com/user-attachments/assets/e07f9025-89f6-4790-a8b8-80acd0e00efd" width="30%", height="180">
+  <img src="https://github.com/user-attachments/assets/0811010a-3275-4196-83fd-539454c9f2c6" width="30%", height="180">
+  <img src="https://github.com/user-attachments/assets/be53803c-790d-4f7c-be04-77022482d5da" width="30%", height="180">
 </p>
 
 초기 구성한 데이터 셋은 class도 다르고 class 별 instance 수 또한 데이터 불균형 심각  :arrow_forward: 이미지 검수하여 데이터의 레벨이 균하게 이루어진 데이터로 병합
