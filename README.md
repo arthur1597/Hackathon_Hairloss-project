@@ -9,28 +9,21 @@
 <p align="center">
   <img alt="탈모 뉴스" src="https://github.com/user-attachments/assets/0b33d7b0-c80b-4d17-a0ab-36df99a505bd" width="45%"/>
   <img alt="슬로우 에이징 뉴스" src="https://github.com/user-attachments/assets/98d52c21-39d0-4cc7-a9f9-653a0b11fd82" width="45%" />
-
 </p>
-
 <p align="left" style="font-size:12px">
   * 출처: <a href="http://www.biotimes.co.kr" target="_blank">Bio Times</a>
 </p>
-따라서 스스로 탈모를 진단할 수 있는 시스템을 개발하여 본인의 탈모 정도를 파악 할 수 있게 하는 것이 목표
+따라서 스스로 탈모 진단과 피부 상태를 진단할 수 있는 시스템을 개발하여 본인의 탈모 정도를 파악 할 수 있게 하는 것이 목표
 
 # 데이터 선정 및 수집
 ## 데이터 수집
-탈모 타입 진단을 위한 AI 모델을 구현하기 위해 Kaggle, roboflow 등 모든 데이터를 이용하여 수집하여 원하는 데이터에 맞게 라벨링
+탈모 정도, 피부 타입 진단을 위한 AI 모델을 구현하기 위해다양한 공개 이미지 데이터셋을 수집하고 목표에 맞게 재라벨링 진행
 
--Hair Image Dataset-
-1. https://universe.roboflow.com/uze/hair-loss-nq8hh
-2. https://universe.roboflow.com/mohit-srivastava/hexa-7bin2
-3. https://universe.roboflow.com/topofhead/hair-vcdau
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/39ee6b29-ca91-4784-a285-368020f1c5a5" width="45%">
-  <img src="https://github.com/user-attachments/assets/45017467-11a0-4eef-982a-be096d3d4bbe" width="45%">
-</p>
-
+## 사용한 데이터셋
+| 이름 | 링크 |
+|------|------|
+| Hair Loss Dataset (UZE) | [링크](https://universe.roboflow.com/uze/hair-loss-nq8hh) |
+| HEXA Dataset (Mohit) | [링크](https://universe.roboflow.com/mohit-srivastava/hexa-7bin2) |
+| SkinProblem | [링크]([https://universe.roboflow.com/topofhead/hair-vcdau](https://universe.roboflow.com/dmrai/skinproblem/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)) |
 
 
