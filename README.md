@@ -13,17 +13,19 @@
 <p align="left" style="font-size:12px">
   * 출처: <a href="http://www.biotimes.co.kr" target="_blank">Bio Times</a>
 </p>
-
-
 따라서 스스로 탈모를 진단할 수 있는 시스템을 개발하여 본인의 탈모 정도를 파악 할 수 있게 하는 것이 목표
 
-## 사용 모델
+# 데이터 선정 및 수집
+## 데이터 수집
+탈모 타입 진단을 위한 AI 모델을 구현하기 위해 Kaggle, roboflow 등 모든 데이터를 이용하여 수집하여 원하는 데이터에 맞게 라벨링
+
+-Hair Image Dataset-
+1. https://universe.roboflow.com/uze/hair-loss-nq8hh
+2. https://universe.roboflow.com/mohit-srivastava/hexa-7bin2
+3. https://universe.roboflow.com/topofhead/hair-vcdau
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41c49ae0-dfae-4591-9150-53403fe7f11d" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/8f5df45a-2c08-42cc-8f6e-d2d39f9efeda" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/39ee6b29-ca91-4784-a285-368020f1c5a5" width="45%">
+  <img src="https://github.com/user-attachments/assets/45017467-11a0-4eef-982a-be096d3d4bbe" width="45%">
 </p>
-
-
-
-
-
