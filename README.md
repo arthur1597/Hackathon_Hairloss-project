@@ -37,7 +37,8 @@ Unet = 이미지 특징 추출
 
 <img width="822" alt="image" src="https://github.com/user-attachments/assets/3905ce3b-4fb6-4757-94a4-f101d66a09d7" />
 
-:arrow_forward: 전반적으로 학습이 잘 되는듯 하나 val/box_loss가 초반에 감소하는 듯 하나 변동이 심한 것으로 과적합이 발생하지 않도록 다양성을 학습중인 것으로 보임/
+:arrow_forward: 전반적으로 학습이 잘 되는듯 하나 val/box_loss가 초반에 감소하는 듯 하나 변동이 심한 것으로 과적합이 발생하지 않도록 다양성을 학습중인 것으로 보임
+
 :arrow_forward: mAP 값 증가하는 추세를 보이나 mAP50-95의 결과값이 약 0.4정도로 좋지 않은 모습을 보임
 
 
