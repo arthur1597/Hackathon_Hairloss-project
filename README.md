@@ -1,6 +1,6 @@
 # Hackathon_Hairloss-project
 
-#### 2024 빅데이터/AI 해커톤 탈모 및 피부 셀프 점검 프로젝트 - 장려상 :trophy:
+#### 2024 빅데이터/AI 해커톤 탈모 및 피부 셀프 점검 프로젝트 - 팀장으로 참가하여 장려상 :trophy: 수상
 
 ## 문제 정의
 건강보험관리공단에 따르면 국내 탈모 인구가 10000만명으로 추산되고 10~30대 젊은 탈모 환자가 전체의 50%를 차지하고 있을 정도로 심각한 탈모화 시대
@@ -57,10 +57,26 @@ Unet = 이미지 특징 추출
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/facb3fd9-c0f6-4217-ac76-d46611bcebdf" width="30%" >
-  &nbsp;&nbsp;<span style="font-size: 100px; vertical-align: middle;">➡️</span>&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/9dedb7ee-3543-4344-8608-a7a398201193" width="30%"  >
+  <img src="https://github.com/user-attachments/assets/9dedb7ee-3543-4344-8608-a7a398201193" width="30%" >
 </p>
 
+### 성능 개선 및 서비스 구현
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b5e09910-fef3-438a-beb5-9e99bdc9909a" width="30%" >
+  <img src="https://github.com/user-attachments/assets/5acb7bdc-11c2-46b1-b1c3-ee5dd94efe77" width="30%" >
+</p>
+
+* Yolo 단일 모델 (왼쪽): 탐지하지 못하는 경우 발생
+* Yolo + Unet 결합 모델 (오른쪽) : 탐지 안되던 것까지 탐지가 되는 모습
+
+![Picture-4](https://github.com/user-attachments/assets/ae392865-7e8e-41da-90e1-ccd088a92dea)
+
+* 서비스 구현은 팀원 중 한분이 진행하여 코드를 깃에 올리지 않고 허락을 받고 실행 결과만 기제(Flask + html)
+
+## 한계
+mask 처리가 제대로 되지않으면 모델 성능에 큰 영향 끼짐
+Yolo 모델의 성능이 해커톤 대회 시간 + 기타 등등의 문제로 성능 향상으로 크게 하지 못함
 
 
 
